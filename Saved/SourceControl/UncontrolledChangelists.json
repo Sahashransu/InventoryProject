@@ -6,11 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/StarterContent/Shapes/Shape_Cone.uasset",
-				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/Green/3DModel/0_dds.uasset",
-				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/Blue/3DModel/0_dds.uasset",
-				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/Gold/3DModel/0_dds_001.uasset",
-				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/Red/3DModel/0_dds_002.uasset",
-				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/Sliver/3DModel/0_dds_003.uasset",
 				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Eatables/Apple/3DModel/Apple_Mat.uasset",
 				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Eatables/Mighty_Bananas/3DModel/Banana_Mat.uasset",
 				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Swords/Spiked_Boko_Club/3DModel/Boko_Mat.uasset",
@@ -165,7 +160,23 @@
 				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/MasterMaterial/MI_MoneyMaterial_Gold.uasset",
 				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/MasterMaterial/MI_MoneyMaterial_Green.uasset",
 				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/MasterMaterial/MI_MoneyMaterial_Red.uasset",
-				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/MasterMaterial/MI_MoneyMaterial_Silver.uasset"
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/MasterMaterial/MI_MoneyMaterial_Silver.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Blueprints/Actors/BP_Money.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/86/N72WRUBA2NVIM4ZC9VBGLD.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/61/CDZXWYWSGBTOIVZMI5S716.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/30/8JCECZ6UAGA9G3VU1Z3HJ1.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/C2/EZSCBH8X58FAFF0D968PGT.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/II/DSU193YMGQFXUY59CWT9O7.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/7L/RB7KK0VWAAFBXUKIFK7DD2.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Blueprints/Widget/WBP_Inventory.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Blueprints/EnhancedInput/IMC_InventoryInput.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Blueprints/EnhancedInput/IA_InventoryToggle.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/Green/3DModel/0_dds.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/Blue/3DModel/0_dds.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/Gold/3DModel/0_dds_001.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/Red/3DModel/0_dds_002.uasset",
+				"E:/Unreal Projects/UE5/InventoryCourse/InventoryCreation/Content/Inventory/Assets/Money/Sliver/3DModel/0_dds_003.uasset"
 			]
 		}
 	]
